@@ -3,7 +3,7 @@ var nam = "Q1: ";
 document.write(nam  + "Ans");
 document.write("<br>");
 
-//Addition ..
+//Addition 
 document.write("<br>");
 var a = 3;
 var b = 5;
